@@ -1,0 +1,20 @@
+{
+    "name": "NLP_Similarity_Preduction",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1aryantyagi/NLP_Similarity_Preduction.git"
+    },
+    15    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/1aryantyagi/NLP_Similarity_Preduction/issues"
+    },
+    "homepage": "https://github.com/1aryantyagi/NLP_Similarity_Preduction#readme"
+}
